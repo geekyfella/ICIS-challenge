@@ -1,6 +1,4 @@
-icisv
-training-orignal
-training-aug
-test-orignal
 chest_xray
 icis
+*.h5
+*.png
